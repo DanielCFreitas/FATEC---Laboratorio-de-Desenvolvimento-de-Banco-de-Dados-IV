@@ -15,7 +15,7 @@
 		<mockito.version>1.9.5</mockito.version>
 		<sqlite.version>3.8.11.2</sqlite.version>
 		<lombok.version>1.16.10</lombok.version>
-		<hibernate-core-version>5.1.0.Final</hibernate-core-version>
+		<hibernate-core-version>5.3.20.Final</hibernate-core-version>
 		<mysql.jdbc.version>6.0.4</mysql.jdbc.version>
 		<!-- Liquidbase properties -->
 		<liquibase.driver>org.sqlite.JDBC</liquibase.driver>
